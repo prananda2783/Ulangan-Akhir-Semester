@@ -109,3 +109,15 @@ tambah data
 ubah data
 
 ![output-praktikum-5](image/ubah%20data.jpg)
+
+lihat data
+
+![output-praktikum-5](image/lihat%20data.jpg)
+
+cari data
+
+![output-praktikum-5](image/mencari%20data.jpg)
+
+hapus data
+
+![output-praktikum-5](image/menghapus%20data.jpg)
