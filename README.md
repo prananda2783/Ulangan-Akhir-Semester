@@ -121,3 +121,7 @@ cari data
 hapus data
 
 ![output-praktikum-5](image/menghapus%20data.jpg)
+
+**Flowchart:**
+
+![output-praktikum-5](image/flowercat.jpg)
