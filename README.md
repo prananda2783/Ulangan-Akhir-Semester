@@ -101,3 +101,11 @@ while True:
 ```
 
 **Output:**
+
+tambah data 
+
+![output-praktikum-5](image/tambah%20data.jpg)
+
+ubah data
+
+![output-praktikum-5](image/ubah%20data.jpg)
